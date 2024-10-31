@@ -1,0 +1,32 @@
+{
+  "type": "person",
+  "parent": {
+    "type": "health_center",
+    "parent": {
+      "type": "district_hospital",
+      "is_name_generated": "false",
+      "name": "Test Health Facility",
+      "contact": {
+        "type": "person",
+        "name": "Andrew Artisan",
+        "sex": "male",
+        "date_of_birth": "1984-01-01",
+        "phone": "+9779841128674",
+        "reported_date": 1544031155715,
+        "_id": "306a3d95-8e4a-517f-8ae4-c3b391c4d7cb"
+      },
+      "reported_date": 1544031155715,
+      "_id": "2112ab72-448a-50bb-a15d-0b19d2927ab7"
+    },
+    "is_name_generated": "false",
+    "name": "Andra Anderson's Area",
+    "reported_date": 1544031155715,
+    "_id": "8935e9d8-0b2a-5eb0-ae54-ad1377a60097"
+  },
+  "name": "Andra Anderson",
+  "sex": "female",
+  "date_of_birth": "1985-01-01",
+  "phone": "+9779841299392",
+  "reported_date": 1544031155715,
+  "_id": "2e0ceb06-ced2-5a63-bca0-0283a5aab0e8"
+}

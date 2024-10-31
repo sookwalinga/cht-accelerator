@@ -1,0 +1,48 @@
+{
+  "type": "clinic",
+  "parent": {
+    "type": "health_center",
+    "parent": {
+      "type": "district_hospital",
+      "is_name_generated": "false",
+      "name": "Test Health Facility",
+      "contact": {
+        "type": "person",
+        "name": "Andrew Artisan",
+        "sex": "male",
+        "date_of_birth": "1984-01-01",
+        "phone": "+9779841128674",
+        "reported_date": 1544031155715,
+        "_id": "306a3d95-8e4a-517f-8ae4-c3b391c4d7cb"
+      },
+      "reported_date": 1544031155715,
+      "_id": "2112ab72-448a-50bb-a15d-0b19d2927ab7"
+    },
+    "is_name_generated": "false",
+    "name": "Charlie Coste's Area",
+    "contact": {
+      "type": "person",
+      "name": "Carla Cotte",
+      "sex": "female",
+      "date_of_birth": "1987-01-01",
+      "phone": "+9779841645872",
+      "reported_date": 1544031155715,
+      "_id": "00a37402-7bc9-5619-92b0-99ade2056cb2"
+    },
+    "reported_date": 1544031155715,
+    "_id": "93a84a5d-79b1-5dd2-b3da-7bdf2cc37a15"
+  },
+  "is_name_generated": "false",
+  "name": "Chelsea Crane Household",
+  "contact": {
+    "type": "person",
+    "name": "Chelsea Crane",
+    "sex": "female",
+    "date_of_birth": "1987-01-01",
+    "patient_id": "10091",
+    "reported_date": 1544031155715,
+    "_id": "fc721419-87de-5878-a34e-e07e003d0f42"
+  },
+  "reported_date": 1544031155715,
+  "_id": "2d21a291-d41c-5289-a735-94a04af127b2"
+}

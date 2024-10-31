@@ -1,0 +1,48 @@
+{
+  "type": "person",
+  "parent": {
+    "type": "clinic",
+    "parent": {
+      "type": "health_center",
+      "parent": {
+        "type": "district_hospital",
+        "is_name_generated": "false",
+        "name": "Test Health Facility",
+        "contact": {
+          "type": "person",
+          "name": "Andrew Artisan",
+          "sex": "male",
+          "date_of_birth": "1984-01-01",
+          "phone": "+9779841128674",
+          "reported_date": 1544031155715,
+          "_id": "306a3d95-8e4a-517f-8ae4-c3b391c4d7cb"
+        },
+        "reported_date": 1544031155715,
+        "_id": "2112ab72-448a-50bb-a15d-0b19d2927ab7"
+      },
+      "is_name_generated": "false",
+      "name": "Brinda Bush's Area",
+      "contact": {
+        "type": "person",
+        "name": "Brinda Bestee",
+        "sex": "female",
+        "date_of_birth": "1986-01-01",
+        "phone": "+9779841278828",
+        "reported_date": 1544031155715,
+        "_id": "69763819-beff-516a-bf7a-7a178f298fb4"
+      },
+      "reported_date": 1544031155715,
+      "_id": "0b465c41-ef04-51a0-89fe-b61b5cf76e4b"
+    },
+    "is_name_generated": "false",
+    "name": "Becky Backlund Household",
+    "reported_date": 1544031155715,
+    "_id": "c3fcce07-f9eb-5520-8500-8eb4e4d69455"
+  },
+  "name": "Becky Backlund",
+  "sex": "female",
+  "date_of_birth": "1987-01-01",
+  "patient_id": "10081",
+  "reported_date": 1544031155715,
+  "_id": "3a44ded6-cc05-53c9-b369-fbc5c4fe8534"
+}

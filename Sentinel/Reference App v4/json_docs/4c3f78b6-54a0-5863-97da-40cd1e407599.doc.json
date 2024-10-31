@@ -1,0 +1,40 @@
+{
+  "form": "pregnancy",
+  "type": "data_record",
+  "content_type": "xml",
+  "reported_date": 1567339200000,
+  "fields": {
+    "patient_uuid": "person_71",
+    "patient_age_in_years": "19",
+    "patient_id": "10072",
+    "patient_name": "Adriana Akiyama",
+    "lmp_date_8601": "2019-06-20",
+    "edd_8601": "2020-03-21",
+    "days_since_lmp": "120",
+    "weeks_since_lmp": "17.14",
+    "weeks_since_lmp_rounded": "17",
+    "lmp_method_approx": "no",
+    "hiv_status_known": "no",
+    "deworming_med_received": "no",
+    "tt_received": "",
+    "t_pregnancy_follow_up_date": "",
+    "t_pregnancy_follow_up": "no",
+    "t_danger_signs_referral_follow_up_date": "",
+    "t_danger_signs_referral_follow_up": "no"
+  },
+  "contact": {
+    "_id": "person_4",
+    "parent": {
+      "_id": "area_1",
+      "parent": {
+        "_id": "hf_1"
+      }
+    }
+  },
+  "from": "+9779841299392",
+  "_id": "4c3f78b6-54a0-5863-97da-40cd1e407599",
+  "fields.patient_uuid": "745b50c4-9ebe-5515-b0cd-eec1d5438004",
+  "contact._id": "2e0ceb06-ced2-5a63-bca0-0283a5aab0e8",
+  "contact.parent._id": "8935e9d8-0b2a-5eb0-ae54-ad1377a60097",
+  "contact.parent.parent._id": "2112ab72-448a-50bb-a15d-0b19d2927ab7"
+}

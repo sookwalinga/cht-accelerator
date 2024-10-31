@@ -1,0 +1,16 @@
+{
+  "type": "district_hospital",
+  "is_name_generated": "false",
+  "name": "Test Health Facility",
+  "contact": {
+    "type": "person",
+    "name": "Andrew Artisan",
+    "sex": "male",
+    "date_of_birth": "1984-01-01",
+    "phone": "+9779841128674",
+    "reported_date": 1544031155715,
+    "_id": "306a3d95-8e4a-517f-8ae4-c3b391c4d7cb"
+  },
+  "reported_date": 1544031155715,
+  "_id": "2112ab72-448a-50bb-a15d-0b19d2927ab7"
+}

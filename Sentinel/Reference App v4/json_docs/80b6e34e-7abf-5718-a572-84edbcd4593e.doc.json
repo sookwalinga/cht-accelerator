@@ -1,0 +1,57 @@
+{
+  "type": "person",
+  "parent": {
+    "type": "clinic",
+    "parent": {
+      "type": "health_center",
+      "parent": {
+        "type": "district_hospital",
+        "is_name_generated": "false",
+        "name": "Test Health Facility",
+        "contact": {
+          "type": "person",
+          "name": "Andrew Artisan",
+          "sex": "male",
+          "date_of_birth": "1984-01-01",
+          "phone": "+9779841128674",
+          "reported_date": 1544031155715,
+          "_id": "306a3d95-8e4a-517f-8ae4-c3b391c4d7cb"
+        },
+        "reported_date": 1544031155715,
+        "_id": "2112ab72-448a-50bb-a15d-0b19d2927ab7"
+      },
+      "is_name_generated": "false",
+      "name": "Andra Anderson's Area",
+      "contact": {
+        "type": "person",
+        "name": "Andra Anderson",
+        "sex": "female",
+        "date_of_birth": "1985-01-01",
+        "phone": "+9779841299392",
+        "reported_date": 1544031155715,
+        "_id": "2e0ceb06-ced2-5a63-bca0-0283a5aab0e8"
+      },
+      "reported_date": 1544031155715,
+      "_id": "8935e9d8-0b2a-5eb0-ae54-ad1377a60097"
+    },
+    "is_name_generated": "false",
+    "name": "Adriana Akiyama Household",
+    "contact": {
+      "type": "person",
+      "name": "Adriana Akiyama",
+      "sex": "female",
+      "date_of_birth": "1985-01-01",
+      "patient_id": "10071",
+      "reported_date": 1544031155715,
+      "_id": "745b50c4-9ebe-5515-b0cd-eec1d5438004"
+    },
+    "reported_date": 1544031155715,
+    "_id": "3a9cecea-8414-5768-9846-474d21b51e91"
+  },
+  "name": "Adelia Akiyama",
+  "sex": "female",
+  "date_of_birth": "2000-01-01",
+  "patient_id": "10072",
+  "reported_date": 1544031155715,
+  "_id": "80b6e34e-7abf-5718-a572-84edbcd4593e"
+}
